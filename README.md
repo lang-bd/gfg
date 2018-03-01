@@ -1,2 +1,2 @@
 # gfg
-geeksforgeeks.com website codes
+http://geeksforgeeks.org website codes
